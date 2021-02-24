@@ -1,0 +1,14 @@
+{
+  "id": "028f0e05-9f17-45be-962d-62bebe6b6f53",
+  "name": "Ciao!",
+  "codename": "ciao_codename",
+  "type": {
+    "id": "fe41ae5a-5fe2-420a-8560-f7d6d3533dc2"
+  },
+  "sitemap_locations": [
+    {
+      "id": "45a123f3-1c55-c697-7dae-78369c8f1e2c"
+    }
+  ],
+  "last_modified": "2021-02-24T11:35:36.3081943Z"
+}

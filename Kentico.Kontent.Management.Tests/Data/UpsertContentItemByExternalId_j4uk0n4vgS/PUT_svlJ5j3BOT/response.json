@@ -1,0 +1,149 @@
+{
+  "Version": "1.1",
+  "Content": {
+    "Headers": [
+      {
+        "Key": "Content-Length",
+        "Value": [
+          "309"
+        ]
+      },
+      {
+        "Key": "Content-Type",
+        "Value": [
+          "application/json; charset=utf-8"
+        ]
+      }
+    ]
+  },
+  "StatusCode": 200,
+  "ReasonPhrase": "OK",
+  "Headers": [
+    {
+      "Key": "Connection",
+      "Value": [
+        "keep-alive"
+      ]
+    },
+    {
+      "Key": "Server",
+      "Value": [
+        "Microsoft-IIS/10.0"
+      ]
+    },
+    {
+      "Key": "X-Request-ID",
+      "Value": [
+        "6ceb478023101a4e"
+      ]
+    },
+    {
+      "Key": "X-KC-Backend-Name",
+      "Value": [
+        "us-01"
+      ]
+    },
+    {
+      "Key": "Request-Context",
+      "Value": [
+        "appId=cid-v1:74c4cbc5-b55a-433a-8fa9-c5909b7039d7"
+      ]
+    },
+    {
+      "Key": "Access-Control-Expose-Headers",
+      "Value": [
+        "Request-Context"
+      ]
+    },
+    {
+      "Key": "X-Powered-By",
+      "Value": [
+        "ASP.NET"
+      ]
+    },
+    {
+      "Key": "Accept-Ranges",
+      "Value": [
+        "bytes"
+      ]
+    },
+    {
+      "Key": "Date",
+      "Value": [
+        "Wed, 24 Feb 2021 11:35:33 GMT"
+      ]
+    },
+    {
+      "Key": "Via",
+      "Value": [
+        "1.1 varnish"
+      ]
+    },
+    {
+      "Key": "X-Served-By",
+      "Value": [
+        "cache-vie21627-VIE"
+      ]
+    },
+    {
+      "Key": "X-Cache",
+      "Value": [
+        "MISS"
+      ]
+    },
+    {
+      "Key": "X-Cache-Hits",
+      "Value": [
+        "0"
+      ]
+    },
+    {
+      "Key": "X-Timer",
+      "Value": [
+        "S1614166533.177328,VS0,VE217"
+      ]
+    }
+  ],
+  "TrailingHeaders": [],
+  "RequestMessage": {
+    "Version": "1.1",
+    "VersionPolicy": 0,
+    "Content": {
+      "Headers": [
+        {
+          "Key": "Content-Type",
+          "Value": [
+            "application/json; charset=utf-8"
+          ]
+        },
+        {
+          "Key": "Content-Length",
+          "Value": [
+            "98"
+          ]
+        }
+      ]
+    },
+    "Method": {
+      "Method": "PUT"
+    },
+    "RequestUri": "https://manage.kontent.ai/projects/{PROJECT_ID}/items/external-id/753f6e965f4d49e5a120ca9a23551b10",
+    "Headers": [
+      {
+        "Key": "Authorization",
+        "Value": [
+          "Bearer {API_KEY}"
+        ]
+      },
+      {
+        "Key": "X-KC-SDKID",
+        "Value": [
+          "nuget.org;Kentico.Kontent.Management;{SDK_ID}"
+        ]
+      }
+    ],
+    "Properties": {},
+    "Options": {}
+  },
+  "IsSuccessStatusCode": true
+}
