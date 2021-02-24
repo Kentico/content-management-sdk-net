@@ -1,0 +1,25 @@
+{
+  "Version": "1.1",
+  "VersionPolicy": 0,
+  "Content": null,
+  "Method": {
+    "Method": "GET"
+  },
+  "RequestUri": "https://manage.kontent.ai/projects/{PROJECT_ID}/items/external-id/ad66f70ed9bb4b8694116c9119c4a930/variants/d1f95fde-af02-b3b5-bd9e-f232311ccab8",
+  "Headers": [
+    {
+      "Key": "Authorization",
+      "Value": [
+        "Bearer {API_KEY}"
+      ]
+    },
+    {
+      "Key": "X-KC-SDKID",
+      "Value": [
+        "nuget.org;Kentico.Kontent.Management;{SDK_ID}"
+      ]
+    }
+  ],
+  "Properties": {},
+  "Options": {}
+}

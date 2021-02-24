@@ -1,0 +1,40 @@
+{
+  "Version": "1.1",
+  "VersionPolicy": 0,
+  "Content": {
+    "Headers": [
+      {
+        "Key": "Content-Type",
+        "Value": [
+          "image/png"
+        ]
+      },
+      {
+        "Key": "Content-Length",
+        "Value": [
+          "5719"
+        ]
+      }
+    ]
+  },
+  "Method": {
+    "Method": "POST"
+  },
+  "RequestUri": "https://manage.kontent.ai/projects/{PROJECT_ID}/files/kentico_rgb_bigger.png",
+  "Headers": [
+    {
+      "Key": "Authorization",
+      "Value": [
+        "Bearer {API_KEY}"
+      ]
+    },
+    {
+      "Key": "X-KC-SDKID",
+      "Value": [
+        "nuget.org;Kentico.Kontent.Management;{SDK_ID}"
+      ]
+    }
+  ],
+  "Properties": {},
+  "Options": {}
+}

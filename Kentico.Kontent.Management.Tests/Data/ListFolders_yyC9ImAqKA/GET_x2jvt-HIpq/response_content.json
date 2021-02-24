@@ -1,0 +1,33 @@
+{
+  "last_modified": "2021-02-22T11:10:45.9638828Z",
+  "folders": [
+    {
+      "id": "1e5203d8-ae2c-483b-b59b-0defebecf49a",
+      "name": "TopFolder",
+      "folders": [
+        {
+          "id": "7194dda7-c5b3-4e85-91a2-026ba2c07e8d",
+          "name": "2ndFolder",
+          "folders": [
+            {
+              "id": "92c20b68-8f50-4b62-b630-eca6d9b512b3",
+              "name": "3rdFolder",
+              "folders": [
+                {
+                  "id": "3b34af2a-526a-47bc-8a27-a40bb37dd3e2",
+                  "name": "4thFolder",
+                  "folders": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0d75c522-563b-4e18-afef-2c562b916a6c",
+      "name": "Dummy Assets For Pagination Tests",
+      "folders": []
+    }
+  ]
+}
