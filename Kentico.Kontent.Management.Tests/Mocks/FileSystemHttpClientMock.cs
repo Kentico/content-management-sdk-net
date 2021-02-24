@@ -53,7 +53,7 @@ namespace Kentico.Kontent.Management.Tests.Mocks
             var serializedRequest = MakeAgnostic(JsonConvert.SerializeObject(message, serializationSettings));
             var serializedRequestContent = await SerializeContent(message.Content);
 
-            var hashContent = $"{message.Method} {serializedRequest} {UnifySerializedRequestContent(serializedRequestContent)}";
+            var hashContent = UnifySerializedRequestContent($"{message.Method} {serializedRequest} {serializedRequestContent}");
             var folderPath = GetMockFileFolder(message, hashContent);
 
             if (_saveToFileSystem)
@@ -165,7 +165,7 @@ namespace Kentico.Kontent.Management.Tests.Mocks
         {
             if (!string.IsNullOrEmpty(content))
             {
-                return content.Replace("\\r", string.Empty);
+                return content.Replace(Environment.NewLine, string.Empty);
             }
 
             return string.Empty;
