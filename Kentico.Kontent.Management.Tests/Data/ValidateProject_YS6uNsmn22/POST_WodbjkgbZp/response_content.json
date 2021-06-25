@@ -1,0 +1,250 @@
+{
+  "project": {
+    "id": "a9931a80-9af4-010b-0590-ecb1273cf1b8",
+    "name": ".NET MAPI V2 SDK Tests",
+    "environment": "Production"
+  },
+  "variant_issues": [
+    {
+      "item": {
+        "id": "aaaa8357-d1b4-4a51-bcaa-10864d80babc",
+        "name": "Donate with us",
+        "codename": "donate_with_us"
+      },
+      "language": {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "name": "Default project language",
+        "codename": "en-US"
+      },
+      "issues": [
+        {
+          "element": {
+            "id": "77108990-3c30-5ffb-8dcd-8eb85fc52cb1",
+            "name": "Related articles",
+            "codename": "related_articles"
+          },
+          "messages": [
+            "Element 'Related articles' is required but has no value."
+          ]
+        }
+      ]
+    },
+    {
+      "item": {
+        "id": "8384eee7-e882-4ea8-b480-59138d66e468",
+        "name": "Example of content (open me)",
+        "codename": "example_of_content__open_me_"
+      },
+      "language": {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "name": "Default project language",
+        "codename": "en-US"
+      },
+      "issues": [
+        {
+          "element": {
+            "id": "77108990-3c30-5ffb-8dcd-8eb85fc52cb1",
+            "name": "Related articles",
+            "codename": "related_articles"
+          },
+          "messages": [
+            "Element 'Related articles' is required but has no value."
+          ]
+        }
+      ]
+    },
+    {
+      "item": {
+        "id": "1ff7210f-bff3-4d20-9e08-70e33d1c72dd",
+        "name": "Origins of Arabica Bourbon",
+        "codename": "origins_of_arabica_bourbon"
+      },
+      "language": {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "name": "Default project language",
+        "codename": "en-US"
+      },
+      "issues": [
+        {
+          "element": {
+            "id": "77108990-3c30-5ffb-8dcd-8eb85fc52cb1",
+            "name": "Related articles",
+            "codename": "related_articles"
+          },
+          "messages": [
+            "Element 'Related articles' is required but has no value."
+          ]
+        }
+      ]
+    },
+    {
+      "item": {
+        "id": "deee0b3c-7b3c-4841-a603-5ada23f550fd",
+        "name": "Coffee Beverages Explained",
+        "codename": "coffee_beverages_explained"
+      },
+      "language": {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "name": "Default project language",
+        "codename": "en-US"
+      },
+      "issues": [
+        {
+          "element": {
+            "id": "77108990-3c30-5ffb-8dcd-8eb85fc52cb1",
+            "name": "Related articles",
+            "codename": "related_articles"
+          },
+          "messages": [
+            "Element 'Related articles' is required but has no value."
+          ]
+        }
+      ]
+    },
+    {
+      "item": {
+        "id": "1037d403-caf0-4c37-b6b3-61a273769976",
+        "name": "Not Valid Article",
+        "codename": "not_valid_article"
+      },
+      "language": {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "name": "Default project language",
+        "codename": "en-US"
+      },
+      "issues": [
+        {
+          "element": {
+            "id": "77108990-3c30-5ffb-8dcd-8eb85fc52cb1",
+            "name": "Related articles",
+            "codename": "related_articles"
+          },
+          "messages": [
+            "Element 'Related articles' is required but has no value."
+          ]
+        }
+      ]
+    },
+    {
+      "item": {
+        "id": "452f515f-0e1d-426f-8b20-874b41f7fac4",
+        "name": "Hooray!",
+        "codename": "hooray__452f515"
+      },
+      "language": {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "name": "Default project language",
+        "codename": "en-US"
+      },
+      "issues": [
+        {
+          "element": {
+            "id": "77108990-3c30-5ffb-8dcd-8eb85fc52cb1",
+            "name": "Related articles",
+            "codename": "related_articles"
+          },
+          "messages": [
+            "Element 'Related articles' is required but has no value."
+          ]
+        }
+      ]
+    },
+    {
+      "item": {
+        "id": "aaaa8357-d1b4-4a51-bcaa-10864d80babc",
+        "name": "Donate with us",
+        "codename": "donate_with_us"
+      },
+      "language": {
+        "id": "78dbefe8-831b-457e-9352-f4c4eacd5024",
+        "name": "Spanish (Spain)",
+        "codename": "es-ES"
+      },
+      "issues": [
+        {
+          "element": {
+            "id": "77108990-3c30-5ffb-8dcd-8eb85fc52cb1",
+            "name": "Related articles",
+            "codename": "related_articles"
+          },
+          "messages": [
+            "Element 'Related articles' is required but has no value."
+          ]
+        }
+      ]
+    },
+    {
+      "item": {
+        "id": "8384eee7-e882-4ea8-b480-59138d66e468",
+        "name": "Example of content (open me)",
+        "codename": "example_of_content__open_me_"
+      },
+      "language": {
+        "id": "78dbefe8-831b-457e-9352-f4c4eacd5024",
+        "name": "Spanish (Spain)",
+        "codename": "es-ES"
+      },
+      "issues": [
+        {
+          "element": {
+            "id": "77108990-3c30-5ffb-8dcd-8eb85fc52cb1",
+            "name": "Related articles",
+            "codename": "related_articles"
+          },
+          "messages": [
+            "Element 'Related articles' is required but has no value."
+          ]
+        }
+      ]
+    },
+    {
+      "item": {
+        "id": "1ff7210f-bff3-4d20-9e08-70e33d1c72dd",
+        "name": "Origins of Arabica Bourbon",
+        "codename": "origins_of_arabica_bourbon"
+      },
+      "language": {
+        "id": "78dbefe8-831b-457e-9352-f4c4eacd5024",
+        "name": "Spanish (Spain)",
+        "codename": "es-ES"
+      },
+      "issues": [
+        {
+          "element": {
+            "id": "77108990-3c30-5ffb-8dcd-8eb85fc52cb1",
+            "name": "Related articles",
+            "codename": "related_articles"
+          },
+          "messages": [
+            "Element 'Related articles' is required but has no value."
+          ]
+        }
+      ]
+    },
+    {
+      "item": {
+        "id": "deee0b3c-7b3c-4841-a603-5ada23f550fd",
+        "name": "Coffee Beverages Explained",
+        "codename": "coffee_beverages_explained"
+      },
+      "language": {
+        "id": "78dbefe8-831b-457e-9352-f4c4eacd5024",
+        "name": "Spanish (Spain)",
+        "codename": "es-ES"
+      },
+      "issues": [
+        {
+          "element": {
+            "id": "77108990-3c30-5ffb-8dcd-8eb85fc52cb1",
+            "name": "Related articles",
+            "codename": "related_articles"
+          },
+          "messages": [
+            "Element 'Related articles' is required but has no value."
+          ]
+        }
+      ]
+    }
+  ],
+  "type_issues": []
+}

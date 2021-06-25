@@ -5,7 +5,7 @@
     <IsPackable>false</IsPackable>
     <UserSecretsId>e750d218-23b5-4aa1-b769-a78077c8c6e5</UserSecretsId>
   </PropertyGroup>
-
+  
   <ItemGroup>
     <PackageReference Include="Microsoft.Extensions.Configuration" Version="5.0.0" />
     <PackageReference Include="Microsoft.Extensions.Configuration.Binder" Version="5.0.0" />
@@ -29,12 +29,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Kentico.Kontent.Management\Kentico.Kontent.Management.csproj" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="Data\DeleteContentItem_8mhcMQ10qq\GET_ulYwZdMhvg\" />
-    <Folder Include="Data\DeleteContentItem_SrE6fGXUAa\GET_GTmgZyBdH0\" />
-    <Folder Include="Data\DeleteContentItem_XwC42GNGAv\GET_ql0Nvrq4Iy\" />
   </ItemGroup>
 
   <ItemGroup>

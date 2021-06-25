@@ -1,0 +1,137 @@
+{
+  "Version": "1.1",
+  "Content": {
+    "Headers": [
+      {
+        "Key": "Content-Length",
+        "Value": [
+          "4090"
+        ]
+      },
+      {
+        "Key": "Content-Type",
+        "Value": [
+          "application/json; charset=utf-8"
+        ]
+      }
+    ]
+  },
+  "StatusCode": 200,
+  "ReasonPhrase": "OK",
+  "Headers": [
+    {
+      "Key": "Connection",
+      "Value": [
+        "keep-alive"
+      ]
+    },
+    {
+      "Key": "X-Request-ID",
+      "Value": [
+        "2e023a33e740de4f"
+      ]
+    },
+    {
+      "Key": "X-KC-Backend-Name",
+      "Value": [
+        "eu-01"
+      ]
+    },
+    {
+      "Key": "Request-Context",
+      "Value": [
+        "appId=cid-v1:74c4cbc5-b55a-433a-8fa9-c5909b7039d7"
+      ]
+    },
+    {
+      "Key": "Access-Control-Expose-Headers",
+      "Value": [
+        "Request-Context"
+      ]
+    },
+    {
+      "Key": "Accept-Ranges",
+      "Value": [
+        "bytes"
+      ]
+    },
+    {
+      "Key": "Date",
+      "Value": [
+        "Thu, 17 Jun 2021 13:40:30 GMT"
+      ]
+    },
+    {
+      "Key": "Via",
+      "Value": [
+        "1.1 varnish"
+      ]
+    },
+    {
+      "Key": "X-Served-By",
+      "Value": [
+        "cache-fra19143-FRA"
+      ]
+    },
+    {
+      "Key": "X-Cache",
+      "Value": [
+        "MISS"
+      ]
+    },
+    {
+      "Key": "X-Cache-Hits",
+      "Value": [
+        "0"
+      ]
+    },
+    {
+      "Key": "X-Timer",
+      "Value": [
+        "S1623937230.190693,VS0,VE89"
+      ]
+    }
+  ],
+  "TrailingHeaders": [],
+  "RequestMessage": {
+    "Version": "1.1",
+    "VersionPolicy": 0,
+    "Content": {
+      "Headers": [
+        {
+          "Key": "Content-Type",
+          "Value": [
+            "application/json; charset=utf-8"
+          ]
+        },
+        {
+          "Key": "Content-Length",
+          "Value": [
+            "1022"
+          ]
+        }
+      ]
+    },
+    "Method": {
+      "Method": "PUT"
+    },
+    "RequestUri": "https://manage.kontent.ai/v2/projects/{PROJECT_ID}/items/4b628214-e4fe-4fe0-b1ff-955df33e1515/variants/78dbefe8-831b-457e-9352-f4c4eacd5024",
+    "Headers": [
+      {
+        "Key": "Authorization",
+        "Value": [
+          "Bearer {API_KEY}"
+        ]
+      },
+      {
+        "Key": "X-KC-SDKID",
+        "Value": [
+          "nuget.org;Kentico.Kontent.Management;{SDK_ID}"
+        ]
+      }
+    ],
+    "Properties": {},
+    "Options": {}
+  },
+  "IsSuccessStatusCode": true
+}

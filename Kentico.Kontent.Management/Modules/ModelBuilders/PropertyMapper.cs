@@ -11,10 +11,16 @@ namespace Kentico.Kontent.Management.Modules.ModelBuilders
     {
         public bool IsMatch(PropertyInfo modelProperty, string elementName)
         {
+            if (elementName == null)
+            {
+                return false;
+            }
+
             var ignoreAttribute = modelProperty.GetCustomAttribute<JsonIgnoreAttribute>();
             if (ignoreAttribute != null) return false;
 
             var propertyAttribute = modelProperty.GetCustomAttribute<JsonPropertyAttribute>();
+
             return propertyAttribute == null
                 ? elementName.Replace("_", "").Equals(modelProperty.Name, StringComparison.OrdinalIgnoreCase)
                 : elementName.Equals(propertyAttribute.PropertyName, StringComparison.Ordinal);

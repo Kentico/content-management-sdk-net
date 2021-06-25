@@ -10,7 +10,7 @@ namespace Kentico.Kontent.Management.Tests
     public class EndpointUrlBuilderTests
     {
         private const string PROJECT_ID = "bb6882a0-3088-405c-a6ac-4a0da46810b0";
-        private const string ENDPOINT = "https://manage.kontent.ai";
+        private const string ENDPOINT = "https://manage.kontent.ai/v2";
 
         private static readonly ManagementOptions OPTIONS = new ManagementOptions() { ProjectId = PROJECT_ID };
 
@@ -187,7 +187,7 @@ namespace Kentico.Kontent.Management.Tests
         [Fact]
         public void BuildAssetListingUrl_WithoutContinuationToken_ReturnsExpectedUrl()
         {
-            var expectedResult = $"https://manage.kontent.ai/projects/{PROJECT_ID}/assets";
+            var expectedResult = $"https://manage.kontent.ai/v2/projects/{PROJECT_ID}/assets";
             var actualResult = _builder.BuildAssetListingUrl();
 
             Assert.Equal(expectedResult, actualResult);
@@ -197,7 +197,7 @@ namespace Kentico.Kontent.Management.Tests
         public void BuildAssetListingUrl_WithContinuationToken_ReturnsExpectedUrl()
         {
             var continuationToken = "MjA=";
-            var expectedResult = $"https://manage.kontent.ai/projects/{PROJECT_ID}/assets?continuationToken=MjA%3D";
+            var expectedResult = $"https://manage.kontent.ai/v2/projects/{PROJECT_ID}/assets?continuationToken=MjA%3D";
             var actualResult = _builder.BuildAssetListingUrl(continuationToken);
 
             Assert.Equal(expectedResult, actualResult);
@@ -207,7 +207,7 @@ namespace Kentico.Kontent.Management.Tests
         public void BuildAssetsUrlFromId_WithGivenAssetId_ReturnsExpectedUrl()
         {
             var assetId = Guid.NewGuid();
-            var expectedResult = $"https://manage.kontent.ai/projects/{PROJECT_ID}/assets/{assetId}";
+            var expectedResult = $"https://manage.kontent.ai/v2/projects/{PROJECT_ID}/assets/{assetId}";
             var actualResult = _builder.BuildAssetsUrl(AssetIdentifier.ById(assetId));
 
             Assert.Equal(expectedResult, actualResult);
@@ -218,7 +218,7 @@ namespace Kentico.Kontent.Management.Tests
         public void BuildAssetsUrlFromExternalId_WithGivenAssetId_ReturnsExpectedUrl()
         {
             var externalId = "which-brewing-fits-you";
-            var expectedResult = $"https://manage.kontent.ai/projects/{PROJECT_ID}/assets/external-id/{externalId}";
+            var expectedResult = $"https://manage.kontent.ai/v2/projects/{PROJECT_ID}/assets/external-id/{externalId}";
             var actualResult = _builder.BuildAssetsUrlFromExternalId(externalId);
 
             Assert.Equal(expectedResult, actualResult);
@@ -232,7 +232,7 @@ namespace Kentico.Kontent.Management.Tests
         public void BuildUploadFileUrl_ReturnsExpectedUrl()
         {
             var fileName = "which-brewing-fits-you-1080px.jpg";
-            var expectedResult = $"https://manage.kontent.ai/projects/{PROJECT_ID}/files/{fileName}";
+            var expectedResult = $"https://manage.kontent.ai/v2/projects/{PROJECT_ID}/files/{fileName}";
             var actualResult = _builder.BuildUploadFileUrl(fileName);
 
             Assert.Equal(expectedResult, actualResult);

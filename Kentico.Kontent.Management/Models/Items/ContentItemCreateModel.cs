@@ -28,12 +28,6 @@ namespace Kentico.Kontent.Management.Models.Items
         public ContentTypeIdentifier Type { get; set; }
 
         /// <summary>
-        /// Gets or sets sitemap locations of the content item.
-        /// </summary>
-        [JsonProperty("sitemap_locations")]
-        public ICollection<SitemapNodeIdentifier> SitemapLocations { get; set; }
-
-        /// <summary>
         /// Gets or sets exernal identifier of the content item.
         /// </summary>
         [JsonProperty("external_id")]

@@ -66,6 +66,7 @@ namespace Kentico.Kontent.Management.Tests.Mocks
                 {
                     // Cleanup previously recorded data at first request to avoid data overlap upon change
                     Directory.Delete(folderPath, true);
+                    Directory.CreateDirectory(folderPath);
                 }
 
                 var response = await _nativeClient.SendAsync(messageCreator, endpointUrl, method, content, headers);

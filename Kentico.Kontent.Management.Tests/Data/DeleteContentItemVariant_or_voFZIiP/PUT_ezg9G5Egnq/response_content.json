@@ -1,0 +1,144 @@
+{
+  "elements": [
+    {
+      "element": {
+        "id": "ba7c8840-bcbc-5e3b-b292-24d0a60f3977"
+      },
+      "value": "On Roasts"
+    },
+    {
+      "element": {
+        "id": "9c6a4fbc-3f73-585f-9521-8d57636adf56"
+      },
+      "value": []
+    },
+    {
+      "element": {
+        "id": "0827e079-3754-5a1d-9381-8ff695a5bbf7"
+      },
+      "value": "2017-07-04T00:00:00Z"
+    },
+    {
+      "element": {
+        "id": "15517aa3-da8a-5551-a4d4-555461fd5226"
+      },
+      "value": ""
+    },
+    {
+      "components": [],
+      "element": {
+        "id": "55a88ab3-4009-5bf9-a590-f32162f09b92"
+      },
+      "value": "<h1>Light Roasts</h1>\n<p>Usually roasted for 6 - 8 minutes or simply until achieving a light brown color.This method is used for milder coffee varieties and for coffee tasting.This type of roasting allows the natural characteristics of each coffee to show.The aroma of coffees produced from light roasts is usually more intense.The cup itself is more acidic and the concentration of caffeine is higher.</p>"
+    },
+    {
+      "element": {
+        "id": "77108990-3c30-5ffb-8dcd-8eb85fc52cb1"
+      },
+      "value": [
+        {
+          "id": "4b628214-e4fe-4fe0-b1ff-955df33e1515"
+        }
+      ]
+    },
+    {
+      "element": {
+        "id": "0ee20a72-0aaa-521f-8801-df3d9293b7dd"
+      },
+      "value": ""
+    },
+    {
+      "element": {
+        "id": "c1dc36b5-558d-55a2-8f31-787430a68e4d"
+      },
+      "value": [
+        {
+          "id": "6e8b18d5-c5e3-5fc1-9014-44c18ef5f5d8"
+        }
+      ]
+    },
+    {
+      "element": {
+        "id": "7df0048f-eaaf-50f8-85cf-fa0fc0d6d815"
+      },
+      "value": ""
+    },
+    {
+      "mode": "custom",
+      "element": {
+        "id": "1f37e15b-27a0-5f48-b314-03b401c19cee"
+      },
+      "value": "on-roasts"
+    },
+    {
+      "element": {
+        "id": "f85f9ef6-ced1-5f04-9d92-163349d50e36"
+      },
+      "value": ""
+    },
+    {
+      "element": {
+        "id": "e35ad81a-9944-5495-af0e-39eb98236833"
+      },
+      "value": ""
+    },
+    {
+      "element": {
+        "id": "3433f5bf-1b67-5b96-80e0-ae63568ad49f"
+      },
+      "value": ""
+    },
+    {
+      "element": {
+        "id": "ef0701c9-e0ab-582c-92a0-1405e566a808"
+      },
+      "value": ""
+    },
+    {
+      "element": {
+        "id": "74b125c5-6914-5fb5-a66a-178e2d2ffbe5"
+      },
+      "value": []
+    },
+    {
+      "element": {
+        "id": "1d0dfc35-d6a9-51d3-b1de-b2ec4ebe53f5"
+      },
+      "value": ""
+    },
+    {
+      "element": {
+        "id": "0f96d60c-cda1-5073-a6bf-fc3a3a33a0c9"
+      },
+      "value": ""
+    },
+    {
+      "element": {
+        "id": "4646ff8f-3257-519d-ae49-f60f12818f35"
+      },
+      "value": ""
+    },
+    {
+      "element": {
+        "id": "8e2bf605-0286-5662-b68f-129c7930fa0c"
+      },
+      "value": ""
+    },
+    {
+      "element": {
+        "id": "19db0028-0169-5833-8aee-ec6e165461c8"
+      },
+      "value": []
+    }
+  ],
+  "workflow_step": {
+    "id": "eee6db3b-545a-4785-8e86-e3772c8756f9"
+  },
+  "item": {
+    "id": "c2667297-d877-5368-a2f3-223b9c6c30a7"
+  },
+  "language": {
+    "id": "78dbefe8-831b-457e-9352-f4c4eacd5024"
+  },
+  "last_modified": "2021-06-11T10:17:09.6499277Z"
+}

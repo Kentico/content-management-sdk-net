@@ -1,0 +1,109 @@
+{
+  "Version": "1.1",
+  "Content": {
+    "Headers": []
+  },
+  "StatusCode": 204,
+  "ReasonPhrase": "No Content",
+  "Headers": [
+    {
+      "Key": "Connection",
+      "Value": [
+        "keep-alive"
+      ]
+    },
+    {
+      "Key": "X-Request-ID",
+      "Value": [
+        "b4df75a1bfab8540"
+      ]
+    },
+    {
+      "Key": "X-KC-Backend-Name",
+      "Value": [
+        "eu-01"
+      ]
+    },
+    {
+      "Key": "Request-Context",
+      "Value": [
+        "appId=cid-v1:74c4cbc5-b55a-433a-8fa9-c5909b7039d7"
+      ]
+    },
+    {
+      "Key": "Access-Control-Expose-Headers",
+      "Value": [
+        "Request-Context"
+      ]
+    },
+    {
+      "Key": "Accept-Ranges",
+      "Value": [
+        "bytes"
+      ]
+    },
+    {
+      "Key": "Date",
+      "Value": [
+        "Fri, 11 Jun 2021 10:25:03 GMT"
+      ]
+    },
+    {
+      "Key": "Via",
+      "Value": [
+        "1.1 varnish"
+      ]
+    },
+    {
+      "Key": "X-Served-By",
+      "Value": [
+        "cache-hhn4057-HHN"
+      ]
+    },
+    {
+      "Key": "X-Cache",
+      "Value": [
+        "MISS"
+      ]
+    },
+    {
+      "Key": "X-Cache-Hits",
+      "Value": [
+        "0"
+      ]
+    },
+    {
+      "Key": "X-Timer",
+      "Value": [
+        "S1623407103.169228,VS0,VE160"
+      ]
+    }
+  ],
+  "TrailingHeaders": [],
+  "RequestMessage": {
+    "Version": "1.1",
+    "VersionPolicy": 0,
+    "Content": null,
+    "Method": {
+      "Method": "DELETE"
+    },
+    "RequestUri": "https://manage.kontent.ai/v2/projects/{PROJECT_ID}/items/a84d1b54-4b48-482b-bc62-56ec65efae5f/variants/78dbefe8-831b-457e-9352-f4c4eacd5024",
+    "Headers": [
+      {
+        "Key": "Authorization",
+        "Value": [
+          "Bearer {API_KEY}"
+        ]
+      },
+      {
+        "Key": "X-KC-SDKID",
+        "Value": [
+          "nuget.org;Kentico.Kontent.Management;{SDK_ID}"
+        ]
+      }
+    ],
+    "Properties": {},
+    "Options": {}
+  },
+  "IsSuccessStatusCode": true
+}

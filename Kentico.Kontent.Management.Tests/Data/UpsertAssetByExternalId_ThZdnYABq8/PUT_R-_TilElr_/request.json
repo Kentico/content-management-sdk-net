@@ -1,0 +1,34 @@
+{
+  "Version": "1.1",
+  "VersionPolicy": 0,
+  "Content": {
+    "Headers": [
+      {
+        "Key": "Content-Type",
+        "Value": [
+          "application/json; charset=utf-8"
+        ]
+      }
+    ]
+  },
+  "Method": {
+    "Method": "PUT"
+  },
+  "RequestUri": "https://manage.kontent.ai/v2/projects/{PROJECT_ID}/assets/external-id/99877608d1f6448ebb35778f027c92f6",
+  "Headers": [
+    {
+      "Key": "Authorization",
+      "Value": [
+        "Bearer {API_KEY}"
+      ]
+    },
+    {
+      "Key": "X-KC-SDKID",
+      "Value": [
+        "nuget.org;Kentico.Kontent.Management;{SDK_ID}"
+      ]
+    }
+  ],
+  "Properties": {},
+  "Options": {}
+}

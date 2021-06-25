@@ -1,0 +1,29 @@
+{
+  "id": "5ec71408-0d67-4de5-a9a1-a434c80fcc73",
+  "file_name": "kentico_rgb_bigger.png",
+  "title": "My new asset",
+  "size": 5719,
+  "type": "image/png",
+  "url": "https://assets-eu-01.kc-usercontent.com/a9931a80-9af4-010b-0590-ecb1273cf1b8/875fc8e5-1d7c-4a2b-b8e4-d7587abf8c5d/kentico_rgb_bigger.png",
+  "image_width": 550,
+  "image_height": 250,
+  "file_reference": {
+    "id": "875fc8e5-1d7c-4a2b-b8e4-d7587abf8c5d",
+    "type": "internal"
+  },
+  "descriptions": [
+    {
+      "language": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "description": null
+    },
+    {
+      "language": {
+        "id": "78dbefe8-831b-457e-9352-f4c4eacd5024"
+      },
+      "description": null
+    }
+  ],
+  "last_modified": "2021-06-11T10:25:07.9208129Z"
+}

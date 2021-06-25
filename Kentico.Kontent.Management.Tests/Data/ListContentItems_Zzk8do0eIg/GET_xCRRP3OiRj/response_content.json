@@ -1,0 +1,646 @@
+{
+  "items": [
+    {
+      "id": "ee783322-0f7b-5a57-8d8a-89beed9d216c",
+      "name": "EditedItem",
+      "codename": "editeditem",
+      "type": {
+        "id": "ba5cd79d-6d4b-5bed-a681-6aa3a366c8f7"
+      },
+      "collection": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "sitemap_locations": [],
+      "external_id": "093afb41b0614a908c8734d2bb840210",
+      "last_modified": "2021-06-02T11:08:39.8722456Z"
+    },
+    {
+      "id": "0f79b41f-53d3-41b5-8fa0-153c87f60bc1",
+      "name": "Ciao!",
+      "codename": "ciao_codename",
+      "type": {
+        "id": "9a622a46-e299-5d1c-b9e0-45ddf3f95803"
+      },
+      "collection": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "sitemap_locations": [],
+      "last_modified": "2021-06-11T10:25:08.452092Z"
+    },
+    {
+      "id": "60214236-d2b8-40dd-a050-b59c1c7a52ef",
+      "name": "Brazil Natural Barra Grande",
+      "codename": "brazil_natural_barra_grande",
+      "type": {
+        "id": "31c039c6-eae2-5653-97c6-1f4c22bc9f6a"
+      },
+      "collection": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "sitemap_locations": [],
+      "last_modified": "2021-06-02T11:08:40.2003676Z"
+    },
+    {
+      "id": "a89dcccf-4d82-4e5e-bce7-62e3c6e15197",
+      "name": "Coffee processing techniques",
+      "codename": "coffee_processing_techniques",
+      "type": {
+        "id": "ba5cd79d-6d4b-5bed-a681-6aa3a366c8f7"
+      },
+      "collection": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "sitemap_locations": [],
+      "last_modified": "2021-06-02T11:08:40.3253992Z"
+    },
+    {
+      "id": "a26fedaf-540a-4854-9060-26b62708b336",
+      "name": "The Coffee Story",
+      "codename": "the_coffee_story",
+      "type": {
+        "id": "2aac8b91-0b3b-5bf4-aae6-7e3f23c461cf"
+      },
+      "collection": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "sitemap_locations": [],
+      "last_modified": "2021-06-02T11:08:40.434757Z"
+    },
+    {
+      "id": "813db69a-3593-401b-8056-cbc6c779ada1",
+      "name": "How we source our coffees",
+      "codename": "how_we_source_our_coffees",
+      "type": {
+        "id": "c765d86b-a7a8-564f-ac8b-3006322794b3"
+      },
+      "collection": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "sitemap_locations": [],
+      "last_modified": "2021-06-02T11:08:40.5598756Z"
+    },
+    {
+      "id": "5d1a59b8-848a-4e63-b8f8-fa0b187b7764",
+      "name": "Home",
+      "codename": "home",
+      "type": {
+        "id": "069aa172-cee9-51b4-910b-9978c2d991b1"
+      },
+      "collection": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "sitemap_locations": [],
+      "last_modified": "2021-06-02T11:08:40.7316494Z"
+    },
+    {
+      "id": "4d78ce7f-d3d5-4e8b-8287-b7499ec9d30f",
+      "name": "How we roast our coffees",
+      "codename": "how_we_roast_our_coffees",
+      "type": {
+        "id": "c765d86b-a7a8-564f-ac8b-3006322794b3"
+      },
+      "collection": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "sitemap_locations": [],
+      "last_modified": "2021-06-02T11:08:40.8410508Z"
+    },
+    {
+      "id": "aaaa8357-d1b4-4a51-bcaa-10864d80babc",
+      "name": "Donate with us",
+      "codename": "donate_with_us",
+      "type": {
+        "id": "ba5cd79d-6d4b-5bed-a681-6aa3a366c8f7"
+      },
+      "collection": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "sitemap_locations": [],
+      "last_modified": "2021-06-02T11:08:40.9504908Z"
+    },
+    {
+      "id": "6cdb19a0-841e-434b-b797-0aed0af02ccd",
+      "name": "HQ in North America",
+      "codename": "hq_in_north_america",
+      "type": {
+        "id": "02c151a5-028e-5eb9-b6e1-cf3908f54694"
+      },
+      "collection": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "sitemap_locations": [],
+      "last_modified": "2021-06-02T11:08:41.0910662Z"
+    },
+    {
+      "id": "ee1f0477-3a0e-4050-9b0d-463fcfd32a01",
+      "name": "Espro Press",
+      "codename": "espro_press",
+      "type": {
+        "id": "ed8f75df-fc02-5627-80fb-7a54563fa395"
+      },
+      "collection": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "sitemap_locations": [],
+      "last_modified": "2021-06-02T11:08:41.2322184Z"
+    },
+    {
+      "id": "ff62a3eb-429c-41b5-958c-2cf568f34cd7",
+      "name": "Hooray!",
+      "codename": "which_brewing_fits_you_",
+      "type": {
+        "id": "ba5cd79d-6d4b-5bed-a681-6aa3a366c8f7"
+      },
+      "collection": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "sitemap_locations": [],
+      "last_modified": "2021-06-02T11:08:41.3572255Z"
+    },
+    {
+      "id": "d137e6d0-3b54-46e5-8771-90e0aafc455d",
+      "name": "Brisbane",
+      "codename": "brisbane",
+      "type": {
+        "id": "9a622a46-e299-5d1c-b9e0-45ddf3f95803"
+      },
+      "collection": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "sitemap_locations": [],
+      "last_modified": "2021-06-02T11:08:41.4666022Z"
+    },
+    {
+      "id": "f9446b85-07e7-4aa4-a201-986abd2459fd",
+      "name": "Hario Mini Mill Slim",
+      "codename": "hario_mini_mill_slim",
+      "type": {
+        "id": "16242b8d-9ccb-5695-9839-5166f8deff39"
+      },
+      "collection": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "sitemap_locations": [],
+      "last_modified": "2021-06-02T11:08:41.6072733Z"
+    },
+    {
+      "id": "3d3363a6-a1e9-4966-8578-98fe76c6fb4c",
+      "name": "New York",
+      "codename": "new_york",
+      "type": {
+        "id": "9a622a46-e299-5d1c-b9e0-45ddf3f95803"
+      },
+      "collection": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "sitemap_locations": [],
+      "last_modified": "2021-06-02T11:08:41.7166432Z"
+    },
+    {
+      "id": "277773e0-5636-4dc2-8d8a-b3deeb763d60",
+      "name": "London",
+      "codename": "london_",
+      "type": {
+        "id": "9a622a46-e299-5d1c-b9e0-45ddf3f95803"
+      },
+      "collection": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "sitemap_locations": [],
+      "last_modified": "2021-06-02T11:08:41.8260702Z"
+    },
+    {
+      "id": "074ab82b-db5c-4981-9b62-7db6f179dad7",
+      "name": "AeroPress",
+      "codename": "aeropress",
+      "type": {
+        "id": "ed8f75df-fc02-5627-80fb-7a54563fa395"
+      },
+      "collection": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "sitemap_locations": [],
+      "last_modified": "2021-06-02T11:08:41.9666328Z"
+    },
+    {
+      "id": "520e7f19-da08-4bc8-9a90-c58247f103a7",
+      "name": "Paper Filters for Chemex",
+      "codename": "paper_filters_for_chemex",
+      "type": {
+        "id": "a9591fcd-a8c4-561d-ae2a-626ebcb766ad"
+      },
+      "collection": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "sitemap_locations": [],
+      "last_modified": "2021-06-02T11:08:42.0760412Z"
+    },
+    {
+      "id": "84b9ce84-c68d-40b8-8c0e-c75e09c50243",
+      "name": "Hario V60",
+      "codename": "hario_v60",
+      "type": {
+        "id": "ed8f75df-fc02-5627-80fb-7a54563fa395"
+      },
+      "collection": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "sitemap_locations": [],
+      "last_modified": "2021-06-02T11:08:42.3424793Z"
+    },
+    {
+      "id": "8384eee7-e882-4ea8-b480-59138d66e468",
+      "name": "Example of content (open me)",
+      "codename": "example_of_content__open_me_",
+      "type": {
+        "id": "ba5cd79d-6d4b-5bed-a681-6aa3a366c8f7"
+      },
+      "collection": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "sitemap_locations": [],
+      "last_modified": "2021-06-02T11:08:42.4674412Z"
+    },
+    {
+      "id": "07294d12-746c-430a-a108-edca9ad9d783",
+      "name": "AeroPress Filters",
+      "codename": "aeropress_filters",
+      "type": {
+        "id": "a9591fcd-a8c4-561d-ae2a-626ebcb766ad"
+      },
+      "collection": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "sitemap_locations": [],
+      "last_modified": "2021-06-02T11:08:42.5611989Z"
+    },
+    {
+      "id": "8df4c43a-602b-4292-a67a-8130b99a35c9",
+      "name": "Melbourne",
+      "codename": "melbourne",
+      "type": {
+        "id": "9a622a46-e299-5d1c-b9e0-45ddf3f95803"
+      },
+      "collection": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "sitemap_locations": [],
+      "last_modified": "2021-06-02T11:08:42.6862104Z"
+    },
+    {
+      "id": "a391e67f-f615-4bd6-840f-285460fbc8d7",
+      "name": "Porlex Tall Ceramic Burr Grinder",
+      "codename": "porlex_tall_ceramic_burr_grinder",
+      "type": {
+        "id": "16242b8d-9ccb-5695-9839-5166f8deff39"
+      },
+      "collection": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "sitemap_locations": [],
+      "last_modified": "2021-06-02T11:08:42.7955856Z"
+    },
+    {
+      "id": "43ad791d-e1ef-4c90-81d4-6931834adeb6",
+      "name": "Hario Vacuum Pot",
+      "codename": "hario_vacuum_pot",
+      "type": {
+        "id": "ed8f75df-fc02-5627-80fb-7a54563fa395"
+      },
+      "collection": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "sitemap_locations": [],
+      "last_modified": "2021-06-02T11:08:42.9049715Z"
+    },
+    {
+      "id": "f26b3b85-9cbf-4ae8-8d04-ac084487cb7c",
+      "name": "Kenya Gakuyuni AA",
+      "codename": "kenya_gakuyuni_aa",
+      "type": {
+        "id": "31c039c6-eae2-5653-97c6-1f4c22bc9f6a"
+      },
+      "collection": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "sitemap_locations": [],
+      "last_modified": "2021-06-02T11:08:43.0143535Z"
+    },
+    {
+      "id": "c111ef48-803d-4787-9fb5-b372afb204ad",
+      "name": "Madrid",
+      "codename": "madrid",
+      "type": {
+        "id": "9a622a46-e299-5d1c-b9e0-45ddf3f95803"
+      },
+      "collection": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "sitemap_locations": [],
+      "last_modified": "2021-06-02T11:08:43.1549826Z"
+    },
+    {
+      "id": "7b3d9e44-3554-4a0a-b541-513fada23c8f",
+      "name": "Office in Europe",
+      "codename": "office_in_europe",
+      "type": {
+        "id": "02c151a5-028e-5eb9-b6e1-cf3908f54694"
+      },
+      "collection": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "sitemap_locations": [],
+      "last_modified": "2021-06-02T11:08:43.2800078Z"
+    },
+    {
+      "id": "81a1c2e0-2171-46a4-b6e8-d2a7bbe61a66",
+      "name": "Hario Buono Kettle",
+      "codename": "hario_buono_kettle",
+      "type": {
+        "id": "a9591fcd-a8c4-561d-ae2a-626ebcb766ad"
+      },
+      "collection": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "sitemap_locations": [],
+      "last_modified": "2021-06-02T11:08:43.4049786Z"
+    },
+    {
+      "id": "66f67ff5-1ba2-47f8-b6d9-348f4990067f",
+      "name": "Our story",
+      "codename": "our_story",
+      "type": {
+        "id": "c765d86b-a7a8-564f-ac8b-3006322794b3"
+      },
+      "collection": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "sitemap_locations": [],
+      "last_modified": "2021-06-02T11:08:43.5456081Z"
+    },
+    {
+      "id": "e08a8704-b556-4943-a837-f7cfe7f935bc",
+      "name": "Our philosophy",
+      "codename": "our_philosophy",
+      "type": {
+        "id": "c765d86b-a7a8-564f-ac8b-3006322794b3"
+      },
+      "collection": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "sitemap_locations": [],
+      "last_modified": "2021-06-02T11:08:43.639391Z"
+    },
+    {
+      "id": "31970c21-840e-4a4f-b14c-7eccbfe931e3",
+      "name": "Office in Australia",
+      "codename": "office_in_australia",
+      "type": {
+        "id": "02c151a5-028e-5eb9-b6e1-cf3908f54694"
+      },
+      "collection": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "sitemap_locations": [],
+      "last_modified": "2021-06-02T11:08:43.7487849Z"
+    },
+    {
+      "id": "7133dfdb-d3bf-4934-a0bc-b552bd7fcb41",
+      "name": "Where does coffee come from?",
+      "codename": "where_does_coffee_come_from__a9bfc04",
+      "type": {
+        "id": "ba5cd79d-6d4b-5bed-a681-6aa3a366c8f7"
+      },
+      "collection": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "sitemap_locations": [],
+      "last_modified": "2021-06-02T11:08:43.8581273Z"
+    },
+    {
+      "id": "1ff7210f-bff3-4d20-9e08-70e33d1c72dd",
+      "name": "Origins of Arabica Bourbon",
+      "codename": "origins_of_arabica_bourbon",
+      "type": {
+        "id": "ba5cd79d-6d4b-5bed-a681-6aa3a366c8f7"
+      },
+      "collection": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "sitemap_locations": [],
+      "last_modified": "2021-06-02T11:08:43.9989083Z"
+    },
+    {
+      "id": "95ba523e-6657-4f65-b309-e4fe0c7f4fe6",
+      "name": "Hario Skerton Hand Grinder",
+      "codename": "hario_skerton_hand_grinder",
+      "type": {
+        "id": "16242b8d-9ccb-5695-9839-5166f8deff39"
+      },
+      "collection": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "sitemap_locations": [],
+      "last_modified": "2021-06-02T11:08:44.1237858Z"
+    },
+    {
+      "id": "954bf09d-d477-4e66-8d37-cbe879256ead",
+      "name": "Colombia Carlos Imbachi",
+      "codename": "colombia_carlos_imbachi",
+      "type": {
+        "id": "31c039c6-eae2-5653-97c6-1f4c22bc9f6a"
+      },
+      "collection": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "sitemap_locations": [],
+      "last_modified": "2021-06-02T11:08:44.2644015Z"
+    },
+    {
+      "id": "deee0b3c-7b3c-4841-a603-5ada23f550fd",
+      "name": "Coffee Beverages Explained",
+      "codename": "coffee_beverages_explained",
+      "type": {
+        "id": "ba5cd79d-6d4b-5bed-a681-6aa3a366c8f7"
+      },
+      "collection": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "sitemap_locations": [],
+      "last_modified": "2021-06-02T11:08:44.3894421Z"
+    },
+    {
+      "id": "6b0df99e-36f6-4a75-9c09-ef3da9382938",
+      "name": "Where does coffee come from?",
+      "codename": "where_does_coffee_come_from__d8c68d0",
+      "type": {
+        "id": "ba5cd79d-6d4b-5bed-a681-6aa3a366c8f7"
+      },
+      "collection": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "sitemap_locations": [],
+      "last_modified": "2021-06-02T11:08:44.4992137Z"
+    },
+    {
+      "id": "4911d704-ba14-4572-b377-5420205e166f",
+      "name": "Los Angeles",
+      "codename": "los_angeles",
+      "type": {
+        "id": "9a622a46-e299-5d1c-b9e0-45ddf3f95803"
+      },
+      "collection": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "sitemap_locations": [],
+      "last_modified": "2021-06-02T11:08:44.6711321Z"
+    },
+    {
+      "id": "68ca99c4-f84d-40e0-9226-d0d213e2b850",
+      "name": "Chemex",
+      "codename": "chemex",
+      "type": {
+        "id": "ed8f75df-fc02-5627-80fb-7a54563fa395"
+      },
+      "collection": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "sitemap_locations": [],
+      "last_modified": "2021-06-02T11:08:44.764887Z"
+    },
+    {
+      "id": "6d6debfb-57cc-4e6b-aa86-cc48a8ca768d",
+      "name": "Where does coffee come from?",
+      "codename": "where_does_coffee_come_from_",
+      "type": {
+        "id": "ba5cd79d-6d4b-5bed-a681-6aa3a366c8f7"
+      },
+      "collection": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "sitemap_locations": [],
+      "last_modified": "2021-06-02T11:08:44.874247Z"
+    },
+    {
+      "id": "e6de8254-36f1-4266-8f6a-806f80c7fb7d",
+      "name": "Allendale",
+      "codename": "allendale",
+      "type": {
+        "id": "9a622a46-e299-5d1c-b9e0-45ddf3f95803"
+      },
+      "collection": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "sitemap_locations": [],
+      "last_modified": "2021-06-02T11:08:45.0148791Z"
+    },
+    {
+      "id": "1b7b8d8b-3c8f-48c9-86dc-0610af960eef",
+      "name": "Amsterdam",
+      "codename": "amsterdam",
+      "type": {
+        "id": "9a622a46-e299-5d1c-b9e0-45ddf3f95803"
+      },
+      "collection": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "sitemap_locations": [],
+      "last_modified": "2021-06-02T11:08:45.405543Z"
+    },
+    {
+      "id": "82ee83cd-b3d4-44dc-9772-af329f18d3f8",
+      "name": "Home page hero unit",
+      "codename": "home_page_hero_unit",
+      "type": {
+        "id": "94dfdc89-729d-53c1-896b-5991e7f0e9ec"
+      },
+      "collection": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "sitemap_locations": [],
+      "last_modified": "2021-06-02T11:08:45.4992784Z"
+    },
+    {
+      "id": "1d7a1155-b8cf-4c8e-b5af-6dffcbd33c0b",
+      "name": "About us",
+      "codename": "about_us",
+      "type": {
+        "id": "014f98c0-40e2-5052-8fe1-00740752ce24"
+      },
+      "collection": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "sitemap_locations": [],
+      "last_modified": "2021-06-02T11:08:45.608659Z"
+    },
+    {
+      "id": "4b628214-e4fe-4fe0-b1ff-955df33e1515",
+      "name": "Hooray!",
+      "codename": "on_roasts",
+      "type": {
+        "id": "ba5cd79d-6d4b-5bed-a681-6aa3a366c8f7"
+      },
+      "collection": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "sitemap_locations": [],
+      "last_modified": "2021-06-11T09:37:43.483578Z"
+    },
+    {
+      "id": "b9297d75-d56f-4915-add8-2545e1b2109e",
+      "name": "Sydney",
+      "codename": "sydney",
+      "type": {
+        "id": "9a622a46-e299-5d1c-b9e0-45ddf3f95803"
+      },
+      "collection": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "sitemap_locations": [],
+      "last_modified": "2021-06-02T11:08:45.8430507Z"
+    },
+    {
+      "id": "a081a0e3-e2a2-47ab-888a-fdde99ee13e0",
+      "name": "Home page promotion",
+      "codename": "home_page_promotion",
+      "type": {
+        "id": "94dfdc89-729d-53c1-896b-5991e7f0e9ec"
+      },
+      "collection": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "sitemap_locations": [],
+      "last_modified": "2021-06-02T11:08:45.9993043Z"
+    },
+    {
+      "id": "1037d403-caf0-4c37-b6b3-61a273769976",
+      "name": "Not Valid Article",
+      "codename": "not_valid_article",
+      "type": {
+        "id": "ba5cd79d-6d4b-5bed-a681-6aa3a366c8f7"
+      },
+      "collection": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "sitemap_locations": [],
+      "last_modified": "2021-06-02T11:08:46.1086879Z"
+    },
+    {
+      "id": "452f515f-0e1d-426f-8b20-874b41f7fac4",
+      "name": "Hooray!",
+      "codename": "hooray__452f515",
+      "type": {
+        "id": "ba5cd79d-6d4b-5bed-a681-6aa3a366c8f7"
+      },
+      "collection": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "sitemap_locations": [],
+      "last_modified": "2021-06-02T15:10:01.938677Z"
+    }
+  ],
+  "pagination": {
+    "continuation_token": null,
+    "next_page": null
+  }
+}

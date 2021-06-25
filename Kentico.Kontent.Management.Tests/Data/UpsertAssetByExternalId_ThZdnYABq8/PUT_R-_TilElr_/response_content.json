@@ -1,0 +1,30 @@
+{
+  "id": "8617a74f-4470-5582-bc83-0515fdf09990",
+  "file_name": "HelloExternal.txt",
+  "title": null,
+  "size": 99,
+  "type": "text/plain",
+  "url": "https://assets-eu-01.kc-usercontent.com/a9931a80-9af4-010b-0590-ecb1273cf1b8/d88e1996-a7be-4f0d-862f-6d07c9baa145/HelloExternal.txt",
+  "image_width": null,
+  "image_height": null,
+  "file_reference": {
+    "id": "d88e1996-a7be-4f0d-862f-6d07c9baa145",
+    "type": "internal"
+  },
+  "descriptions": [
+    {
+      "language": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "description": null
+    },
+    {
+      "language": {
+        "id": "78dbefe8-831b-457e-9352-f4c4eacd5024"
+      },
+      "description": "Spanish descriptión"
+    }
+  ],
+  "external_id": "99877608d1f6448ebb35778f027c92f6",
+  "last_modified": "2021-06-11T10:17:03.6339891Z"
+}

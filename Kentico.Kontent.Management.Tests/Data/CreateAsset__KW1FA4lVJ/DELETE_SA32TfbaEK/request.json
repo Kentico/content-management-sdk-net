@@ -1,0 +1,25 @@
+{
+  "Version": "1.1",
+  "VersionPolicy": 0,
+  "Content": null,
+  "Method": {
+    "Method": "DELETE"
+  },
+  "RequestUri": "https://manage.kontent.ai/v2/projects/{PROJECT_ID}/assets/e3a61ff2-5df3-42b0-956e-40ac3d2b380e",
+  "Headers": [
+    {
+      "Key": "Authorization",
+      "Value": [
+        "Bearer {API_KEY}"
+      ]
+    },
+    {
+      "Key": "X-KC-SDKID",
+      "Value": [
+        "nuget.org;Kentico.Kontent.Management;{SDK_ID}"
+      ]
+    }
+  ],
+  "Properties": {},
+  "Options": {}
+}

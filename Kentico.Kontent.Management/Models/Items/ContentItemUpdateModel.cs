@@ -23,12 +23,6 @@ namespace Kentico.Kontent.Management.Models.Items
         public string CodeName { get; set; }
 
         /// <summary>
-        /// Gets or sets sitemap locations of the content item.
-        /// </summary>
-        [JsonProperty("sitemap_locations", Required = Required.Always)]
-        public IEnumerable<SitemapNodeIdentifier> SitemapLocations { get; set; } = Enumerable.Empty<SitemapNodeIdentifier>();
-
-        /// <summary>
         /// A default constructor.
         /// </summary>
         public ContentItemUpdateModel()
@@ -42,7 +36,6 @@ namespace Kentico.Kontent.Management.Models.Items
         public ContentItemUpdateModel(ContentItemModel contentItem)
         {
             Name = contentItem.Name;
-            SitemapLocations = contentItem.SitemapLocations.Select(s => SitemapNodeIdentifier.ById(s.Id));
         }
     }
 }

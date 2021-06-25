@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 using System.Dynamic;
 using System.Collections.Generic;
 
@@ -52,9 +53,17 @@ namespace Kentico.Kontent.Management.Modules.ActionInvoker
 
         public override object ReadJson(JsonReader reader, Type objectType, object existingValue, JsonSerializer serializer)
         {
-            var defaultResult = (JObject)serializer.Deserialize(reader);
+            var defaultResult = serializer.Deserialize(reader);
 
-            return ConvertToDynamicObject(defaultResult);
+            switch (defaultResult)
+            {
+                case JObject obj:
+                    return ConvertToDynamicObject(obj);
+                case JArray array:
+                    return array.Select(obj => ConvertToDynamicObject((JObject)obj));
+                default:
+                    throw new ArgumentOutOfRangeException("JSON deserialization did not return either object nor array.");
+            }
         }
 
         public override void WriteJson(JsonWriter writer, object value, JsonSerializer serializer)

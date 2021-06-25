@@ -1,12 +1,14 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 using Kentico.Kontent.Management.Models.Assets;
 using Kentico.Kontent.Management.Models.Items;
+using Kentico.Kontent.Management.Models.StronglyTyped;
 using Newtonsoft.Json;
 
 namespace Kentico.Kontent.Management.Tests.Data
 {
-    internal class ComplexTestModel
+    public class ComplexTestModel
     {
         [JsonProperty("title")]
         public string Title { get; set; }
@@ -36,6 +38,6 @@ namespace Kentico.Kontent.Management.Tests.Data
         public string MetaDescription { get; set; }
 
         [JsonProperty("url_pattern")]
-        public string UrlPattern { get; set; }
+        public UrlSlug UrlPattern { get; set; }
     }
 }

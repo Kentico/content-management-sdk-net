@@ -1,0 +1,137 @@
+{
+  "Version": "1.1",
+  "Content": {
+    "Headers": [
+      {
+        "Key": "Content-Length",
+        "Value": [
+          "849"
+        ]
+      },
+      {
+        "Key": "Content-Type",
+        "Value": [
+          "application/json; charset=utf-8"
+        ]
+      }
+    ]
+  },
+  "StatusCode": 200,
+  "ReasonPhrase": "OK",
+  "Headers": [
+    {
+      "Key": "Connection",
+      "Value": [
+        "keep-alive"
+      ]
+    },
+    {
+      "Key": "X-Request-ID",
+      "Value": [
+        "c109f2f8fae77b44"
+      ]
+    },
+    {
+      "Key": "X-KC-Backend-Name",
+      "Value": [
+        "eu-01"
+      ]
+    },
+    {
+      "Key": "Request-Context",
+      "Value": [
+        "appId=cid-v1:74c4cbc5-b55a-433a-8fa9-c5909b7039d7"
+      ]
+    },
+    {
+      "Key": "Access-Control-Expose-Headers",
+      "Value": [
+        "Request-Context"
+      ]
+    },
+    {
+      "Key": "Accept-Ranges",
+      "Value": [
+        "bytes"
+      ]
+    },
+    {
+      "Key": "Date",
+      "Value": [
+        "Fri, 11 Jun 2021 10:17:03 GMT"
+      ]
+    },
+    {
+      "Key": "Via",
+      "Value": [
+        "1.1 varnish"
+      ]
+    },
+    {
+      "Key": "X-Served-By",
+      "Value": [
+        "cache-hhn4065-HHN"
+      ]
+    },
+    {
+      "Key": "X-Cache",
+      "Value": [
+        "MISS"
+      ]
+    },
+    {
+      "Key": "X-Cache-Hits",
+      "Value": [
+        "0"
+      ]
+    },
+    {
+      "Key": "X-Timer",
+      "Value": [
+        "S1623406624.608992,VS0,VE67"
+      ]
+    }
+  ],
+  "TrailingHeaders": [],
+  "RequestMessage": {
+    "Version": "1.1",
+    "VersionPolicy": 0,
+    "Content": {
+      "Headers": [
+        {
+          "Key": "Content-Type",
+          "Value": [
+            "application/json; charset=utf-8"
+          ]
+        },
+        {
+          "Key": "Content-Length",
+          "Value": [
+            "195"
+          ]
+        }
+      ]
+    },
+    "Method": {
+      "Method": "PUT"
+    },
+    "RequestUri": "https://manage.kontent.ai/v2/projects/{PROJECT_ID}/assets/external-id/99877608d1f6448ebb35778f027c92f6",
+    "Headers": [
+      {
+        "Key": "Authorization",
+        "Value": [
+          "Bearer {API_KEY}"
+        ]
+      },
+      {
+        "Key": "X-KC-SDKID",
+        "Value": [
+          "nuget.org;Kentico.Kontent.Management;{SDK_ID}"
+        ]
+      }
+    ],
+    "Properties": {},
+    "Options": {}
+  },
+  "IsSuccessStatusCode": true
+}
